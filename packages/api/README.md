@@ -4,15 +4,15 @@ cover: >-
 coverY: 0
 ---
 
-# 👋 Welcome!
+# 👋 前言
+
+
 
 {% hint style="info" %}
 **About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
 {% endhint %}
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
-
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
+18 年多前，Spring 带着让 Java 应用程序开发更简单的基本使命进入了开发领域。最初，这意味着为 EJB 2.x 提供一个轻量级的替代方案。多年来，Spring 不断扩展其简单性使命，以应对常见的开发挑战，包括持久性、安全性、集成、云计算等。
 
 <details>
 
